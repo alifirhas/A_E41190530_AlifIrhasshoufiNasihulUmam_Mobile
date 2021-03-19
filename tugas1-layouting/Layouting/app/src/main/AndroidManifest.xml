@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.layouting">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Layouting">
+        <activity
+            android:name=".ScrollView"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity
+            android:name=".MaterialDesign"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LayoutTable"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LayoutFrame"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LayoutConstraint"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LayoutRelative"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LayoutLinear"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

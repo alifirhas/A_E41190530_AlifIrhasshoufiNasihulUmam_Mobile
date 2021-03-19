@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Layouting</string>
+    <string name="open_linear">Open Linear</string>
+    <string name="open_constraint">Open Constraint</string>
+    <string name="open_frame">Open Frame</string>
+    <string name="open_relative">Open Relative</string>
+    <string name="open_table">Open Table</string>
+    <string name="open_material">Open Material</string>
+    <string name="open_scroll">Open Scroll</string>
+    <string name="kepada">Kepada</string>
+    <string name="perihal">Perihal</string>
+    <string name="pesan">Pesan</string>
+    <string name="kirim">Kirim</string>
+    <string name="judul_pengingat">Judul Pengingat</string>
+    <string name="selesai">Selesai</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="semicolon">:</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum sagittis velit, ut ullamcorper nisl consequat at. Donec accumsan volutpat urna, nec eleifend metus blandit vel. Proin fermentum urna sit amet tellus malesuada fermentum. Etiam eget felis pellentesque, dictum ligula eu, venenatis nibh. Donec fringilla odio sit amet viverra facilisis. Quisque vestibulum magna ut lectus venenatis venenatis. Mauris sit amet lobortis augue. Sed id cursus felis. Quisque tempus libero ac lectus auctor convallis. Aenean pretium, nisi mollis porttitor mollis, quam elit placerat ipsum, eget commodo dui lectus ac massa.</string>
+</resources>
