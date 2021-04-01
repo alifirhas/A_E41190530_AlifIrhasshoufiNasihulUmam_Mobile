@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">minggu_3_2</string>
+    <string-array name="array_negara">
+        <item>negara 1</item>
+        <item>negara 2</item>
+        <item>negara 3</item>
+        <item>negara 4</item>
+        <item>negara 5</item>
+        <item>negara 6</item>
+        <item>negara 7</item>
+        <item>negara 8</item>
+        <item>negara 9</item>
+    </string-array>
+</resources>
